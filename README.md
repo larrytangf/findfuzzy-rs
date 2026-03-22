@@ -1,4 +1,4 @@
-# Terminal Tool to Replace `fd` and `fzf` in Rust
+fuzzy find tool to replace `fd` and `fzf` in Rust
 
 ## Usage Examples
 
